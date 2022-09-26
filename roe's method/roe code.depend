@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664196199 source:/home/shock4/Desktop/Vikram/roe code/main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<cmath>
+
